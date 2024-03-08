@@ -1,3 +1,3 @@
 # MeuLanches
 
-- Aplica;'ao desenvolvida em Vue Js
+- Aplicação desenvolvida em Vue Js
